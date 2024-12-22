@@ -21,7 +21,7 @@ fn thrust_sword(ref Sword: Sword) {
 //          Bad Functions          //
 //     (there are errors here)     //
 /////////////////////////////////////
-
+//ADJ
 fn fight_wraith_1(sword: Sword) {
 
     swing_sword(@sword);
