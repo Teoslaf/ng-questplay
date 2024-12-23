@@ -7,5 +7,5 @@ struct HawkSpirit {
 
 // Returns a HawkSpirit with position set to `0` and speed set to `speed`.
 fn summon_hawk(speed: u32) -> HawkSpirit {
-    
+    HawkSpirit { position: 0, speed: speed }
 }
